@@ -79,7 +79,7 @@
     "colorthief": "^2.3.2",
     "events": "^3.3.0",
     "framer-motion": "^7.10.3",
-    "fuels": "^0.89.1",
+    "fuels": "^0.94.1",
     "idb-keyval": "^6.2.0",
     "input-otp": "^1.2.4",
     "jotai": "^2.7.0",
